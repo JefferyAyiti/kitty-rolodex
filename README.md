@@ -1,5 +1,5 @@
-# monsters-rolodex
-
+# kitty-rolodex
+Vue Variant of Monster Rolodex
 ## Project setup
 ```
 npm install
